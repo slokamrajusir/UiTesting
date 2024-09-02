@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [25/Jul/2024:11:43:08 +0530] "GET / HTTP/1.1" 200 11428
+0:0:0:0:0:0:0:1 - - [25/Jul/2024:11:43:08 +0530] "GET / HTTP/1.1" 200 11428
+0:0:0:0:0:0:0:1 - - [25/Jul/2024:11:43:38 +0530] "GET /manager/html HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - admin [25/Jul/2024:11:43:46 +0530] "GET /manager/html HTTP/1.1" 200 17755
+127.0.0.1 - admin [25/Jul/2024:11:48:23 +0530] "GET /manager/text/list HTTP/1.1" 200 202
+127.0.0.1 - admin [25/Jul/2024:11:48:23 +0530] "PUT /manager/text/deploy?path=%2FDevopsbatch-0.0.1-SNAPSHOT HTTP/1.1" 200 84
+0:0:0:0:0:0:0:1 - admin [25/Jul/2024:11:48:54 +0530] "GET /manager/html HTTP/1.1" 200 18370
+0:0:0:0:0:0:0:1 - - [25/Jul/2024:11:49:01 +0530] "GET /Devopsbatch-0.0.1-SNAPSHOT/ HTTP/1.1" 200 353
