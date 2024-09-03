@@ -1,0 +1,52 @@
+11-Jul-2024 11:15:42.749 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.91
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 2 2024 12:35:51 UTC
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.91.0
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.1+12-LTS-29
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+11-Jul-2024 11:15:42.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\conf\logging.properties
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91
+11-Jul-2024 11:15:42.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\temp
+11-Jul-2024 11:15:44.619 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.0] using APR version [1.7.4].
+11-Jul-2024 11:15:44.619 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+11-Jul-2024 11:15:44.619 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+11-Jul-2024 11:15:44.619 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+11-Jul-2024 11:15:45.042 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+11-Jul-2024 11:15:45.074 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2547] milliseconds
+11-Jul-2024 11:15:45.152 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Jul-2024 11:15:45.152 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.91]
+11-Jul-2024 11:15:45.168 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\docs]
+11-Jul-2024 11:15:45.606 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\docs] has finished in [437] ms
+11-Jul-2024 11:15:45.606 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\examples]
+11-Jul-2024 11:15:46.076 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\examples] has finished in [470] ms
+11-Jul-2024 11:15:46.076 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\host-manager]
+11-Jul-2024 11:15:46.123 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\host-manager] has finished in [47] ms
+11-Jul-2024 11:15:46.123 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\manager]
+11-Jul-2024 11:15:46.154 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\manager] has finished in [31] ms
+11-Jul-2024 11:15:46.154 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\ROOT]
+11-Jul-2024 11:15:46.186 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\ROOT] has finished in [32] ms
+11-Jul-2024 11:15:46.186 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+11-Jul-2024 11:15:46.217 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1147] milliseconds
+11-Jul-2024 11:21:36.890 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/E:/apache-tomcat-9.0.91-windows-x64/apache-tomcat-9.0.91/conf/tomcat-users.xml]
+11-Jul-2024 11:22:39.245 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\TestDevops-0.0.1-SNAPSHOT.war]
+11-Jul-2024 11:22:39.364 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [E:\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91\webapps\TestDevops-0.0.1-SNAPSHOT.war] has finished in [118] ms
+11-Jul-2024 11:28:20.475 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+11-Jul-2024 11:28:20.487 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+11-Jul-2024 11:28:20.487 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Jul-2024 11:28:20.597 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+11-Jul-2024 11:28:20.613 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
